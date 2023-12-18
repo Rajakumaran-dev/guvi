@@ -1,1 +1,9 @@
+#Create 20 files with .txt extensions.
 touch file{1..20}.txt
+
+#rename the firt 5 files to .yml extension
+mv touch1.txt touch1.yml
+mv touch2.txt touch2.yml
+mv touch3.txt touch3.yml
+mv touch4.txt touch4.yml
+mv touch5.txt touch5.yml
