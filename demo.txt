@@ -5,6 +5,6 @@ sroot01@sroot01:~$ pwd
 sroot01@sroot01:~$ vi demo.txt
 sroot01@sroot01:~$ ll
 -rw-rw-r-- 1 sroot01 sroot01    3 Dec 22 09:11 demo.txt
-sroot01@sroot01:~$ chmod 461 demo.txt 
+sroot01@sroot01:~$ chmod 467 demo.txt 
 sroot01@sroot01:~$ ll
--r--rw---x 1 sroot01 sroot01    3 Dec 22 09:11 demo.txt*
+-r--rw-rwx 1 sroot01 sroot01    3 Dec 22 09:11 demo.txt*
